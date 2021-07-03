@@ -2,7 +2,7 @@
 <h3 align="center">A Infrastructure Analyst starting to learn programming languages</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbpcosta" alt="mbpcosta" /> </p>
 
-- 🔭 I’m currently working on HM Inovação & Tecnologia
+- 🔭 I’m currently working at HM Inovação & Tecnologia
 
 - 👨‍💻 Learning about **JavaScript, HTML, CSS**
 
