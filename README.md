@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at HM Inovação & Tecnologia
 
-- 👨‍💻 Learning about **JavaScript, HTML, CSS**
+- 👨‍💻 Learning about **Docker and Kubernetes**
 
 - 📫 How to reach me **mbpcosta01@gmail.com**
 
