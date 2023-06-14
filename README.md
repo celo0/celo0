@@ -1,5 +1,5 @@
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Marcelo Costa</h1>
-<h3 align="center">A Infrastructure Analyst starting to learn programming languages</h3>
+<h1 align="center">Hello! I'm Marcelo Costa</h1>
+<h3 align="center">Infrastructure Analyst starting to learn programming languages</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbpcosta" alt="mbpcosta" /> </p>
 
 - 🔭 I’m currently working at HM Inovação & Tecnologia
