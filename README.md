@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mbpcosta01@gmail.com**
 
-- 🌐 My website: **https://www.marcelocosta.io**
+- 🌐 My website: **https://www.marcelocosta.tech**
 
 <!-- <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
