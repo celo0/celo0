@@ -56,6 +56,12 @@ I'm a seasoned Infrastructure & Security Analyst with over 10 years of experienc
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-00ADEE?style=for-the-badge)
 
 ---
+## 💻 Notable Projects
+
+- [🔁 Reverse Proxy Fix for Plex](https://github.com/celo0/nginx-media)
+  - Nginx config to route Plex, qBitTorrent, Sonarr, Radarr and Prowlarr under a single URL without breaking UI or auth.
+
+---
 
 ## 📜 Certifications
 
