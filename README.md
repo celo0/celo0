@@ -29,11 +29,12 @@ I'm a seasoned Infrastructure & Security Analyst with over 10 years of experienc
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔐 Security
+### 🔐 Security & 🌐 Networking
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Sophos](https://img.shields.io/badge/Sophos-0033A0?style=for-the-badge&logo=sophos&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=dev.to&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-429345?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
