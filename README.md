@@ -1,12 +1,12 @@
 <h1 align="center">Hello! I'm Marcelo Costa</h1>
 <h3 align="center">Infrastructure Analyst starting to learn programming languages</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbpcosta" alt="mbpcosta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=celo0" alt="celo0" /> </p>
 
-- 🔭 I’m currently working at HM Inovação & Tecnologia
+- 🔭 I’m currently working at HMIT Tecnologia
 
-- 👨‍💻 Learning about **Python**
+- 👨‍💻 Learning about: **Python**, **Security**, **DevSecOps**, **opentofu**
 
-- 📫 How to reach me **mbpcosta01@gmail.com**
+- 📫 How to reach me: **contactme@marcelocosta.tech**
 
 - 🌐 My website: **https://www.marcelocosta.tech**
 
