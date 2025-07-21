@@ -1,36 +1,31 @@
-<h1 align="center">Hello! I'm Marcelo Costa</h1>
-<h3 align="center">Infrastructure Analyst starting to learn programming languages</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=celo0" alt="celo0" /> </p>
-
-- 🔭 I’m currently working at HMIT Tecnologia
-
-- 👨‍💻 Learning about: **Python**, **Security**, **DevSecOps**, **opentofu**
-
-- 📫 How to reach me: **contactme@marcelocosta.tech**
-
-- 🌐 My website: **https://www.marcelocosta.tech**
-
-<!-- <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-</p><p align="center">
--->
+<h1 align="center">👋 Hey there! I'm Marcelo</h1>
 <p align="center">
-<a href="https://linkedin.com/in/mbpcosta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mbpcosta" height="20" width="20" /></a>
+  💻 Infrastructure & Security Analyst | 🔐 DevSecOps Enthusiast | 🇧🇷 Based in Brazil
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=celo0" alt="Profile views" />
 </p>
 
-<!--
-**mbpcosta/mbpcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced Infrastructure Analyst with a strong background in **cloud environments**, **network security**, and **DevOps automation**. I hold an **Associate Degree in Computer Networks** from [Estácio](https://estacio.br/), and I'm currently pursuing a **Postgraduate degree in Cybersecurity focused on DevOps** at [Unifor](https://unifor.br/).
 
-Here are some ideas to get you started:
+At [HMIT](https://www.hmit.com.br), I work on building secure, resilient infrastructure — bridging the gap between operations and security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Core Tech Stack
+- **Cloud & Infra**: AWS, Terraform, OpenTofu, Docker, Nginx
+- **Security**: WAF (Cloudflare, Fortinet), VPN, Network Hardening, Sophos
+- **Automation**: Bash, Python, Git, CI/CD pipelines
+- **Monitoring**: Zabbix, Grafana, Prometheus
+- **DevSecOps**: Secure pipelines, Compliance automation
+
+---
+
+### 📫 Let’s connect!
+- ✉️ Email: [contactme@marcelocosta.tech](mailto:contactme@marcelocosta.tech)
+- 🌐 Website: [marcelocosta.tech](https://www.marcelocosta.tech)
+- 💼 LinkedIn: [linkedin.com/in/mbpcosta](https://linkedin.com/in/mbpcosta)
+
+---
+
+> 🧠 *The quieter you become, the more you are able to hear.*
