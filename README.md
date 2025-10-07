@@ -92,5 +92,4 @@ _Jan 2018 – Jun 2020_
 - 💼 [linkedin.com/in/mbpcosta](https://linkedin.com/in/mbpcosta)
 
 ---
-
 > 🧠 *The quieter you become, the more you are able to hear.*
